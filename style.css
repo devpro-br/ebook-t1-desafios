@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.parte1 {
+  padding: 80px;
+  padding-bottom: 0;
+  margin: 0;
+}
+
+.subtitle1 {
+  color: #00a78e;
+  font-size: 32px;
+  font-weight: 100;
+  letter-spacing: 2pt;
+}
+
+.title {
+  color: #293651;
+  font-size: 48px;
+  font-weight: 900;
+  margin-top: 20px;
+}
+
+.subtitle2 {
+  color: #293651;
+  font-size: 24px;
+  font-weight: 300;
+  letter-spacing: 2pt;
+}
+
+.text {
+  color: #76778c;
+  font-size: 20px;
+  letter-spacing: 1.2pt;
+  line-height: 32px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.btn {
+  background-color: #00a78e;
+  border-radius: 3px;
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.hero {
+  height: 440px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.hero img {
+  height: 100%;
+}
+
+.parte2 {
+  background-color: #00a78e;
+  color: white;
+  padding: 80px;
+}
+
+.parte2 p {
+  line-height: 26px;
+  letter-spacing: 1.2pt;
+}
+
+.parte2 .subtitle {
+  padding-top: 20px;
+}
+
+.parte3 {
+  color: #293651;
+  padding: 80px;
+}
+
+.parte3 p {
+  margin-top: 20px;
+}
+
+.barra-habilidade {
+  accent-color: #00a78e;
+  height: 28px;
+  width: 320px;
+}
+
+.rodape {
+  background-color: #293651;
+  color: #828a9c;
+  font-size: 12px;
+  padding: 80px;
+}
